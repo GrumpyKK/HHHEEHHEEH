@@ -1,6 +1,8 @@
-main{
+body{
     background-color: aquamarine;
     width: 1200px;
     text-decoration-style: wavy;
-    margin-left: auto;
+    margin-left: 400px;
+    text-shadow: 30cqmin;
+    text-decoration-thickness: 10px;
 }
